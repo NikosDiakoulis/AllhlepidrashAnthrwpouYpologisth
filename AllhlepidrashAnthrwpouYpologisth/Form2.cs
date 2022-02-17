@@ -16,5 +16,45 @@ namespace AllhlepidrashAnthrwpouYpologisth
         {
             InitializeComponent();
         }
+
+        private void πανεπιστήμιοToolStripMenuItem_DropDownItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            richTextBox1.AppendText(πανεπιστήμιοToolStripMenuItem.Text + " στις " + e.ClickedItem.Text + Environment.NewLine);
+        }
+
+        private void δουλειάToolStripMenuItem_DropDownItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            richTextBox1.AppendText(δουλειάToolStripMenuItem.Text + " στις " + e.ClickedItem.Text + Environment.NewLine);
+        }
+
+        private void φαγητόToolStripMenuItem_DropDownItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            richTextBox1.AppendText(φαγητόToolStripMenuItem.Text + " στις " + e.ClickedItem.Text + Environment.NewLine);
+        }
+
+        private void προπόνησηToolStripMenuItem_DropDownItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            richTextBox1.AppendText(προπόνησηToolStripMenuItem.Text + " στις " + e.ClickedItem.Text + Environment.NewLine);
+        }
+
+        private void καφετέριαToolStripMenuItem_DropDownItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            richTextBox1.AppendText(καφετέριαToolStripMenuItem.Text + " στις " + e.ClickedItem.Text + Environment.NewLine);
+        }
+
+        private void τάισμαΣκύλουToolStripMenuItem_DropDownItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            richTextBox1.AppendText(τάισμαΣκύλουToolStripMenuItem.Text + " στις " + e.ClickedItem.Text + Environment.NewLine);
+        }
+
+        private void βόλταΣκύλουToolStripMenuItem_DropDownItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            richTextBox1.AppendText(βόλταΣκύλουToolStripMenuItem.Text + " στις " + e.ClickedItem.Text + Environment.NewLine);
+        }
+
+        private void βραδινήΈξοδοςToolStripMenuItem_DropDownItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            richTextBox1.AppendText(βραδινήΈξοδοςToolStripMenuItem.Text + " στις " + e.ClickedItem.Text + Environment.NewLine);
+        }
     }
 }

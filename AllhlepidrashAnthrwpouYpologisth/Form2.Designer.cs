@@ -292,149 +292,150 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.πανεπιστήμιοToolStripMenuItem.Name = "πανεπιστήμιοToolStripMenuItem";
             this.πανεπιστήμιοToolStripMenuItem.Size = new System.Drawing.Size(241, 30);
             this.πανεπιστήμιοToolStripMenuItem.Text = "Πανεπιστήμιο";
+            this.πανεπιστήμιοToolStripMenuItem.DropDownItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.πανεπιστήμιοToolStripMenuItem_DropDownItemClicked);
             // 
             // toolStripMenuItem2
             // 
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
-            this.toolStripMenuItem2.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem2.Text = "00:00";
             // 
             // toolStripMenuItem3
             // 
             this.toolStripMenuItem3.Name = "toolStripMenuItem3";
-            this.toolStripMenuItem3.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem3.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem3.Text = "01:00";
             // 
             // toolStripMenuItem4
             // 
             this.toolStripMenuItem4.Name = "toolStripMenuItem4";
-            this.toolStripMenuItem4.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem4.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem4.Text = "02:00";
             // 
             // toolStripMenuItem5
             // 
             this.toolStripMenuItem5.Name = "toolStripMenuItem5";
-            this.toolStripMenuItem5.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem5.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem5.Text = "03:00";
             // 
             // toolStripMenuItem6
             // 
             this.toolStripMenuItem6.Name = "toolStripMenuItem6";
-            this.toolStripMenuItem6.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem6.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem6.Text = "04:00";
             // 
             // toolStripMenuItem7
             // 
             this.toolStripMenuItem7.Name = "toolStripMenuItem7";
-            this.toolStripMenuItem7.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem7.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem7.Text = "05:00";
             // 
             // toolStripMenuItem8
             // 
             this.toolStripMenuItem8.Name = "toolStripMenuItem8";
-            this.toolStripMenuItem8.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem8.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem8.Text = "06:00";
             // 
             // toolStripMenuItem9
             // 
             this.toolStripMenuItem9.Name = "toolStripMenuItem9";
-            this.toolStripMenuItem9.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem9.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem9.Text = "07:00";
             // 
             // toolStripMenuItem10
             // 
             this.toolStripMenuItem10.Name = "toolStripMenuItem10";
-            this.toolStripMenuItem10.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem10.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem10.Text = "08:00";
             // 
             // toolStripMenuItem11
             // 
             this.toolStripMenuItem11.Name = "toolStripMenuItem11";
-            this.toolStripMenuItem11.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem11.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem11.Text = "09:00";
             // 
             // toolStripMenuItem12
             // 
             this.toolStripMenuItem12.Name = "toolStripMenuItem12";
-            this.toolStripMenuItem12.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem12.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem12.Text = "10:00";
             // 
             // toolStripMenuItem13
             // 
             this.toolStripMenuItem13.Name = "toolStripMenuItem13";
-            this.toolStripMenuItem13.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem13.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem13.Text = "11:00";
             // 
             // toolStripMenuItem14
             // 
             this.toolStripMenuItem14.Name = "toolStripMenuItem14";
-            this.toolStripMenuItem14.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem14.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem14.Text = "12:00";
             // 
             // toolStripMenuItem15
             // 
             this.toolStripMenuItem15.Name = "toolStripMenuItem15";
-            this.toolStripMenuItem15.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem15.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem15.Text = "13:00";
             // 
             // toolStripMenuItem16
             // 
             this.toolStripMenuItem16.Name = "toolStripMenuItem16";
-            this.toolStripMenuItem16.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem16.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem16.Text = "14:00";
             // 
             // toolStripMenuItem17
             // 
             this.toolStripMenuItem17.Name = "toolStripMenuItem17";
-            this.toolStripMenuItem17.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem17.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem17.Text = "15:00";
             // 
             // toolStripMenuItem18
             // 
             this.toolStripMenuItem18.Name = "toolStripMenuItem18";
-            this.toolStripMenuItem18.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem18.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem18.Text = "16:00";
             // 
             // toolStripMenuItem19
             // 
             this.toolStripMenuItem19.Name = "toolStripMenuItem19";
-            this.toolStripMenuItem19.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem19.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem19.Text = "17:00";
             // 
             // toolStripMenuItem20
             // 
             this.toolStripMenuItem20.Name = "toolStripMenuItem20";
-            this.toolStripMenuItem20.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem20.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem20.Text = "18:00";
             // 
             // toolStripMenuItem21
             // 
             this.toolStripMenuItem21.Name = "toolStripMenuItem21";
-            this.toolStripMenuItem21.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem21.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem21.Text = "19:00";
             // 
             // toolStripMenuItem22
             // 
             this.toolStripMenuItem22.Name = "toolStripMenuItem22";
-            this.toolStripMenuItem22.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem22.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem22.Text = "20:00";
             // 
             // toolStripMenuItem23
             // 
             this.toolStripMenuItem23.Name = "toolStripMenuItem23";
-            this.toolStripMenuItem23.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem23.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem23.Text = "21:00";
             // 
             // toolStripMenuItem24
             // 
             this.toolStripMenuItem24.Name = "toolStripMenuItem24";
-            this.toolStripMenuItem24.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem24.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem24.Text = "22:00";
             // 
             // toolStripMenuItem25
             // 
             this.toolStripMenuItem25.Name = "toolStripMenuItem25";
-            this.toolStripMenuItem25.Size = new System.Drawing.Size(180, 30);
+            this.toolStripMenuItem25.Size = new System.Drawing.Size(137, 30);
             this.toolStripMenuItem25.Text = "23:00";
             // 
             // δουλειάToolStripMenuItem
@@ -467,149 +468,150 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.δουλειάToolStripMenuItem.Name = "δουλειάToolStripMenuItem";
             this.δουλειάToolStripMenuItem.Size = new System.Drawing.Size(241, 30);
             this.δουλειάToolStripMenuItem.Text = "Δουλειά";
+            this.δουλειάToolStripMenuItem.DropDownItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.δουλειάToolStripMenuItem_DropDownItemClicked);
             // 
             // toolStripMenuItem26
             // 
             this.toolStripMenuItem26.Name = "toolStripMenuItem26";
-            this.toolStripMenuItem26.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem26.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem26.Text = "00:00";
             // 
             // toolStripMenuItem27
             // 
             this.toolStripMenuItem27.Name = "toolStripMenuItem27";
-            this.toolStripMenuItem27.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem27.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem27.Text = "01:00";
             // 
             // toolStripMenuItem28
             // 
             this.toolStripMenuItem28.Name = "toolStripMenuItem28";
-            this.toolStripMenuItem28.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem28.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem28.Text = "02:00";
             // 
             // toolStripMenuItem29
             // 
             this.toolStripMenuItem29.Name = "toolStripMenuItem29";
-            this.toolStripMenuItem29.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem29.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem29.Text = "03:00";
             // 
             // toolStripMenuItem30
             // 
             this.toolStripMenuItem30.Name = "toolStripMenuItem30";
-            this.toolStripMenuItem30.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem30.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem30.Text = "04:00";
             // 
             // toolStripMenuItem31
             // 
             this.toolStripMenuItem31.Name = "toolStripMenuItem31";
-            this.toolStripMenuItem31.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem31.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem31.Text = "05:00";
             // 
             // toolStripMenuItem32
             // 
             this.toolStripMenuItem32.Name = "toolStripMenuItem32";
-            this.toolStripMenuItem32.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem32.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem32.Text = "06:00";
             // 
             // toolStripMenuItem33
             // 
             this.toolStripMenuItem33.Name = "toolStripMenuItem33";
-            this.toolStripMenuItem33.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem33.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem33.Text = "07:00";
             // 
             // toolStripMenuItem34
             // 
             this.toolStripMenuItem34.Name = "toolStripMenuItem34";
-            this.toolStripMenuItem34.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem34.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem34.Text = "08:00";
             // 
             // toolStripMenuItem35
             // 
             this.toolStripMenuItem35.Name = "toolStripMenuItem35";
-            this.toolStripMenuItem35.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem35.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem35.Text = "09:00";
             // 
             // toolStripMenuItem36
             // 
             this.toolStripMenuItem36.Name = "toolStripMenuItem36";
-            this.toolStripMenuItem36.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem36.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem36.Text = "10:00";
             // 
             // toolStripMenuItem37
             // 
             this.toolStripMenuItem37.Name = "toolStripMenuItem37";
-            this.toolStripMenuItem37.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem37.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem37.Text = "11:00";
             // 
             // toolStripMenuItem38
             // 
             this.toolStripMenuItem38.Name = "toolStripMenuItem38";
-            this.toolStripMenuItem38.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem38.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem38.Text = "12:00";
             // 
             // toolStripMenuItem39
             // 
             this.toolStripMenuItem39.Name = "toolStripMenuItem39";
-            this.toolStripMenuItem39.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem39.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem39.Text = "13:00";
             // 
             // toolStripMenuItem40
             // 
             this.toolStripMenuItem40.Name = "toolStripMenuItem40";
-            this.toolStripMenuItem40.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem40.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem40.Text = "14:00";
             // 
             // toolStripMenuItem41
             // 
             this.toolStripMenuItem41.Name = "toolStripMenuItem41";
-            this.toolStripMenuItem41.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem41.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem41.Text = "15:00";
             // 
             // toolStripMenuItem42
             // 
             this.toolStripMenuItem42.Name = "toolStripMenuItem42";
-            this.toolStripMenuItem42.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem42.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem42.Text = "16:00";
             // 
             // toolStripMenuItem43
             // 
             this.toolStripMenuItem43.Name = "toolStripMenuItem43";
-            this.toolStripMenuItem43.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem43.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem43.Text = "17:00";
             // 
             // toolStripMenuItem44
             // 
             this.toolStripMenuItem44.Name = "toolStripMenuItem44";
-            this.toolStripMenuItem44.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem44.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem44.Text = "18:00";
             // 
             // toolStripMenuItem45
             // 
             this.toolStripMenuItem45.Name = "toolStripMenuItem45";
-            this.toolStripMenuItem45.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem45.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem45.Text = "19:00";
             // 
             // toolStripMenuItem46
             // 
             this.toolStripMenuItem46.Name = "toolStripMenuItem46";
-            this.toolStripMenuItem46.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem46.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem46.Text = "20:00";
             // 
             // toolStripMenuItem47
             // 
             this.toolStripMenuItem47.Name = "toolStripMenuItem47";
-            this.toolStripMenuItem47.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem47.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem47.Text = "21:00";
             // 
             // toolStripMenuItem48
             // 
             this.toolStripMenuItem48.Name = "toolStripMenuItem48";
-            this.toolStripMenuItem48.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem48.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem48.Text = "22:00";
             // 
             // toolStripMenuItem49
             // 
             this.toolStripMenuItem49.Name = "toolStripMenuItem49";
-            this.toolStripMenuItem49.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem49.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem49.Text = "23:00";
             // 
             // φαγητόToolStripMenuItem
@@ -642,6 +644,7 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.φαγητόToolStripMenuItem.Name = "φαγητόToolStripMenuItem";
             this.φαγητόToolStripMenuItem.Size = new System.Drawing.Size(241, 30);
             this.φαγητόToolStripMenuItem.Text = "Φαγητό";
+            this.φαγητόToolStripMenuItem.DropDownItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.φαγητόToolStripMenuItem_DropDownItemClicked);
             // 
             // toolStripMenuItem98
             // 
@@ -817,6 +820,7 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.προπόνησηToolStripMenuItem.Name = "προπόνησηToolStripMenuItem";
             this.προπόνησηToolStripMenuItem.Size = new System.Drawing.Size(241, 30);
             this.προπόνησηToolStripMenuItem.Text = "Προπόνηση";
+            this.προπόνησηToolStripMenuItem.DropDownItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.προπόνησηToolStripMenuItem_DropDownItemClicked);
             // 
             // toolStripMenuItem1
             // 
@@ -992,6 +996,7 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.καφετέριαToolStripMenuItem.Name = "καφετέριαToolStripMenuItem";
             this.καφετέριαToolStripMenuItem.Size = new System.Drawing.Size(241, 30);
             this.καφετέριαToolStripMenuItem.Text = "Καφετέρια";
+            this.καφετέριαToolStripMenuItem.DropDownItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.καφετέριαToolStripMenuItem_DropDownItemClicked);
             // 
             // toolStripMenuItem50
             // 
@@ -1167,6 +1172,7 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.τάισμαΣκύλουToolStripMenuItem.Name = "τάισμαΣκύλουToolStripMenuItem";
             this.τάισμαΣκύλουToolStripMenuItem.Size = new System.Drawing.Size(241, 30);
             this.τάισμαΣκύλουToolStripMenuItem.Text = "Τάισμα σκύλου";
+            this.τάισμαΣκύλουToolStripMenuItem.DropDownItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.τάισμαΣκύλουToolStripMenuItem_DropDownItemClicked);
             // 
             // toolStripMenuItem122
             // 
@@ -1342,6 +1348,7 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.βόλταΣκύλουToolStripMenuItem.Name = "βόλταΣκύλουToolStripMenuItem";
             this.βόλταΣκύλουToolStripMenuItem.Size = new System.Drawing.Size(241, 30);
             this.βόλταΣκύλουToolStripMenuItem.Text = "Βόλτα σκύλου";
+            this.βόλταΣκύλουToolStripMenuItem.DropDownItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.βόλταΣκύλουToolStripMenuItem_DropDownItemClicked);
             // 
             // toolStripMenuItem74
             // 
@@ -1517,149 +1524,150 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.βραδινήΈξοδοςToolStripMenuItem.Name = "βραδινήΈξοδοςToolStripMenuItem";
             this.βραδινήΈξοδοςToolStripMenuItem.Size = new System.Drawing.Size(241, 30);
             this.βραδινήΈξοδοςToolStripMenuItem.Text = "Βραδινή έξοδος";
+            this.βραδινήΈξοδοςToolStripMenuItem.DropDownItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.βραδινήΈξοδοςToolStripMenuItem_DropDownItemClicked);
             // 
             // toolStripMenuItem147
             // 
             this.toolStripMenuItem147.Name = "toolStripMenuItem147";
-            this.toolStripMenuItem147.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem147.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem147.Text = "00:00";
             // 
             // toolStripMenuItem170
             // 
             this.toolStripMenuItem170.Name = "toolStripMenuItem170";
-            this.toolStripMenuItem170.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem170.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem170.Text = "01:00";
             // 
             // toolStripMenuItem171
             // 
             this.toolStripMenuItem171.Name = "toolStripMenuItem171";
-            this.toolStripMenuItem171.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem171.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem171.Text = "02:00";
             // 
             // toolStripMenuItem172
             // 
             this.toolStripMenuItem172.Name = "toolStripMenuItem172";
-            this.toolStripMenuItem172.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem172.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem172.Text = "03:00";
             // 
             // toolStripMenuItem173
             // 
             this.toolStripMenuItem173.Name = "toolStripMenuItem173";
-            this.toolStripMenuItem173.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem173.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem173.Text = "04:00";
             // 
             // toolStripMenuItem174
             // 
             this.toolStripMenuItem174.Name = "toolStripMenuItem174";
-            this.toolStripMenuItem174.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem174.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem174.Text = "05:00";
             // 
             // toolStripMenuItem175
             // 
             this.toolStripMenuItem175.Name = "toolStripMenuItem175";
-            this.toolStripMenuItem175.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem175.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem175.Text = "06:00";
             // 
             // toolStripMenuItem176
             // 
             this.toolStripMenuItem176.Name = "toolStripMenuItem176";
-            this.toolStripMenuItem176.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem176.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem176.Text = "07:00";
             // 
             // toolStripMenuItem177
             // 
             this.toolStripMenuItem177.Name = "toolStripMenuItem177";
-            this.toolStripMenuItem177.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem177.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem177.Text = "08:00";
             // 
             // toolStripMenuItem178
             // 
             this.toolStripMenuItem178.Name = "toolStripMenuItem178";
-            this.toolStripMenuItem178.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem178.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem178.Text = "09:00";
             // 
             // toolStripMenuItem179
             // 
             this.toolStripMenuItem179.Name = "toolStripMenuItem179";
-            this.toolStripMenuItem179.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem179.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem179.Text = "10:00";
             // 
             // toolStripMenuItem180
             // 
             this.toolStripMenuItem180.Name = "toolStripMenuItem180";
-            this.toolStripMenuItem180.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem180.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem180.Text = "11:00";
             // 
             // toolStripMenuItem181
             // 
             this.toolStripMenuItem181.Name = "toolStripMenuItem181";
-            this.toolStripMenuItem181.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem181.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem181.Text = "12:00";
             // 
             // toolStripMenuItem182
             // 
             this.toolStripMenuItem182.Name = "toolStripMenuItem182";
-            this.toolStripMenuItem182.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem182.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem182.Text = "13:00";
             // 
             // toolStripMenuItem183
             // 
             this.toolStripMenuItem183.Name = "toolStripMenuItem183";
-            this.toolStripMenuItem183.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem183.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem183.Text = "14:00";
             // 
             // toolStripMenuItem184
             // 
             this.toolStripMenuItem184.Name = "toolStripMenuItem184";
-            this.toolStripMenuItem184.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem184.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem184.Text = "15:00";
             // 
             // toolStripMenuItem185
             // 
             this.toolStripMenuItem185.Name = "toolStripMenuItem185";
-            this.toolStripMenuItem185.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem185.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem185.Text = "16:00";
             // 
             // toolStripMenuItem186
             // 
             this.toolStripMenuItem186.Name = "toolStripMenuItem186";
-            this.toolStripMenuItem186.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem186.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem186.Text = "17:00";
             // 
             // toolStripMenuItem187
             // 
             this.toolStripMenuItem187.Name = "toolStripMenuItem187";
-            this.toolStripMenuItem187.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem187.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem187.Text = "18:00";
             // 
             // toolStripMenuItem188
             // 
             this.toolStripMenuItem188.Name = "toolStripMenuItem188";
-            this.toolStripMenuItem188.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem188.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem188.Text = "19:00";
             // 
             // toolStripMenuItem189
             // 
             this.toolStripMenuItem189.Name = "toolStripMenuItem189";
-            this.toolStripMenuItem189.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem189.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem189.Text = "20:00";
             // 
             // toolStripMenuItem190
             // 
             this.toolStripMenuItem190.Name = "toolStripMenuItem190";
-            this.toolStripMenuItem190.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem190.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem190.Text = "21:00";
             // 
             // toolStripMenuItem191
             // 
             this.toolStripMenuItem191.Name = "toolStripMenuItem191";
-            this.toolStripMenuItem191.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem191.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem191.Text = "22:00";
             // 
             // toolStripMenuItem192
             // 
             this.toolStripMenuItem192.Name = "toolStripMenuItem192";
-            this.toolStripMenuItem192.Size = new System.Drawing.Size(137, 30);
+            this.toolStripMenuItem192.Size = new System.Drawing.Size(180, 30);
             this.toolStripMenuItem192.Text = "23:00";
             // 
             // richTextBox1
