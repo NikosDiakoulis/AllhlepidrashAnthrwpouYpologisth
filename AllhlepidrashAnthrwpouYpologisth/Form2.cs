@@ -56,5 +56,11 @@ namespace AllhlepidrashAnthrwpouYpologisth
         {
             richTextBox1.AppendText(βραδινήΈξοδοςToolStripMenuItem.Text + " στις " + e.ClickedItem.Text + Environment.NewLine);
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form5 f5 = new Form5();
+            f5.Show();
+        }
     }
 }
