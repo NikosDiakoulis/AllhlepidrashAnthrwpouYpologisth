@@ -173,6 +173,16 @@ namespace AllhlepidrashAnthrwpouYpologisth.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap gucci {
+            get {
+                object obj = ResourceManager.GetObject("gucci", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap help {
             get {
                 object obj = ResourceManager.GetObject("help", resourceCulture);
@@ -203,6 +213,16 @@ namespace AllhlepidrashAnthrwpouYpologisth.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap jordanunc {
+            get {
+                object obj = ResourceManager.GetObject("jordanunc", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap light_bulb_off {
             get {
                 object obj = ResourceManager.GetObject("light-bulb-off", resourceCulture);
@@ -223,9 +243,9 @@ namespace AllhlepidrashAnthrwpouYpologisth.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap shoe {
+        internal static System.Drawing.Bitmap rock {
             get {
-                object obj = ResourceManager.GetObject("shoe", resourceCulture);
+                object obj = ResourceManager.GetObject("rock", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -233,9 +253,19 @@ namespace AllhlepidrashAnthrwpouYpologisth.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap shoes {
+        internal static System.Drawing.Bitmap runningshoe {
             get {
-                object obj = ResourceManager.GetObject("shoes", resourceCulture);
+                object obj = ResourceManager.GetObject("runningshoe", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap shoe {
+            get {
+                object obj = ResourceManager.GetObject("shoe", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -273,16 +303,6 @@ namespace AllhlepidrashAnthrwpouYpologisth.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap thermostat {
-            get {
-                object obj = ResourceManager.GetObject("thermostat", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap thermostat1 {
             get {
                 object obj = ResourceManager.GetObject("thermostat1", resourceCulture);
@@ -293,9 +313,19 @@ namespace AllhlepidrashAnthrwpouYpologisth.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap uparrow {
+        internal static System.Drawing.Bitmap ultra {
             get {
-                object obj = ResourceManager.GetObject("uparrow", resourceCulture);
+                object obj = ResourceManager.GetObject("ultra", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Untitled {
+            get {
+                object obj = ResourceManager.GetObject("Untitled", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -336,6 +366,16 @@ namespace AllhlepidrashAnthrwpouYpologisth.Properties {
         internal static System.Drawing.Bitmap walkmap1 {
             get {
                 object obj = ResourceManager.GetObject("walkmap1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap work {
+            get {
+                object obj = ResourceManager.GetObject("work", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
