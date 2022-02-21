@@ -58,6 +58,7 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.button2.TabIndex = 1;
             this.button2.Text = "Προσθήκη στο καλάθι";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -67,6 +68,7 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.button3.TabIndex = 2;
             this.button3.Text = "Προσθήκη στο καλάθι";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -76,6 +78,7 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.button4.TabIndex = 3;
             this.button4.Text = "Προσθήκη στο καλάθι";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
@@ -85,6 +88,7 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.button5.TabIndex = 4;
             this.button5.Text = "Προσθήκη στο καλάθι";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
@@ -94,6 +98,7 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.button6.TabIndex = 5;
             this.button6.Text = "Προσθήκη στο καλάθι";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button7
             // 
@@ -103,6 +108,7 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.button7.TabIndex = 6;
             this.button7.Text = "Προσθήκη στο καλάθι";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button8
             // 
@@ -112,18 +118,20 @@ namespace AllhlepidrashAnthrwpouYpologisth
             this.button8.TabIndex = 7;
             this.button8.Text = "Προσθήκη στο καλάθι";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button9
             // 
             this.button9.BackColor = System.Drawing.Color.Transparent;
+            this.button9.BackgroundImage = global::AllhlepidrashAnthrwpouYpologisth.Properties.Resources.cart;
             this.button9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button9.FlatAppearance.BorderSize = 0;
             this.button9.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.button9.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(69)))), ((int)(((byte)(111)))));
             this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button9.Location = new System.Drawing.Point(1225, -1);
+            this.button9.Location = new System.Drawing.Point(1218, 12);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(18, 23);
+            this.button9.Size = new System.Drawing.Size(34, 31);
             this.button9.TabIndex = 8;
             this.button9.Text = " ";
             this.button9.UseVisualStyleBackColor = false;

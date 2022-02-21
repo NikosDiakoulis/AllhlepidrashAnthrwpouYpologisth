@@ -64,5 +64,11 @@ namespace AllhlepidrashAnthrwpouYpologisth
             Form11 f11 = new Form11();
             f11.Show();
         }
+
+        private void button4_Click_1(object sender, EventArgs e)
+        {
+            Form11 f11 = new Form11();
+            f11.Show();
+        }
     }
 }

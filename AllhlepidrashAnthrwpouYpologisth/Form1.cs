@@ -34,5 +34,10 @@ namespace AllhlepidrashAnthrwpouYpologisth
             Form4 f4 = new Form4();
             f4.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, @"./User Manual.chm", HelpNavigator.TopicId, "TopicID");
+        }
     }
 }
